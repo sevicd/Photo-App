@@ -1,0 +1,101 @@
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\obj\Debug\Photo.Service.csprojResolveAssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Service.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Service.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Ninject.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Models.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Models.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Repository.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Repository.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Service.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.DAL.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\AutoMapper.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\EntityFramework.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Models.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Models.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Repository.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Repository.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Repository.dll.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.Service.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Ninject.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.DAL.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\Photo.DAL.dll.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\AutoMapper.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\bin\Debug\EntityFramework.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\obj\Debug\Photo.Service.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service\obj\Debug\Photo.Service.pdb
+D:\Photo\Photo.Service\bin\Debug\Photo.Service.dll
+D:\Photo\Photo.Service\bin\Debug\Photo.Service.pdb
+D:\Photo\Photo.Service\bin\Debug\Ninject.dll
+D:\Photo\Photo.Service\bin\Debug\Photo.Models.Common.dll
+D:\Photo\Photo.Service\bin\Debug\Photo.Models.dll
+D:\Photo\Photo.Service\bin\Debug\Photo.Repository.Common.dll
+D:\Photo\Photo.Service\bin\Debug\Photo.Repository.dll
+D:\Photo\Photo.Service\bin\Debug\Photo.Service.Common.dll
+D:\Photo\Photo.Service\bin\Debug\Photo.DAL.dll
+D:\Photo\Photo.Service\bin\Debug\AutoMapper.dll
+D:\Photo\Photo.Service\bin\Debug\EntityFramework.dll
+D:\Photo\Photo.Service\bin\Debug\Photo.Models.Common.pdb
+D:\Photo\Photo.Service\bin\Debug\Photo.Models.pdb
+D:\Photo\Photo.Service\bin\Debug\Photo.Repository.Common.pdb
+D:\Photo\Photo.Service\bin\Debug\Photo.Repository.pdb
+D:\Photo\Photo.Service\bin\Debug\Photo.Repository.dll.config
+D:\Photo\Photo.Service\bin\Debug\Photo.Service.Common.pdb
+D:\Photo\Photo.Service\bin\Debug\Ninject.xml
+D:\Photo\Photo.Service\bin\Debug\Photo.DAL.pdb
+D:\Photo\Photo.Service\bin\Debug\Photo.DAL.dll.config
+D:\Photo\Photo.Service\bin\Debug\AutoMapper.xml
+D:\Photo\Photo.Service\bin\Debug\EntityFramework.xml
+D:\Photo\Photo.Service\obj\Debug\Photo.Service.csprojResolveAssemblyReference.cache
+D:\Photo\Photo.Service\obj\Debug\Photo.Service.dll
+D:\Photo\Photo.Service\obj\Debug\Photo.Service.pdb
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Service.dll
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Service.pdb
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Ninject.dll
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Models.Common.dll
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Models.dll
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Repository.Common.dll
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Repository.dll
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Service.Common.dll
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.DAL.dll
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\EntityFramework.dll
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\AutoMapper.dll
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Models.Common.pdb
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Models.pdb
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Repository.Common.pdb
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Repository.pdb
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Repository.dll.config
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Service.Common.pdb
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Ninject.xml
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.DAL.pdb
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.DAL.dll.config
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\EntityFramework.xml
+E:\Photo-Aplikacija\Photo.Service\bin\Debug\AutoMapper.xml
+E:\Photo-Aplikacija\Photo.Service\obj\Debug\Photo.Service.csprojResolveAssemblyReference.cache
+E:\Photo-Aplikacija\Photo.Service\obj\Debug\Photo.Service.csproj.CoreCompileInputs.cache
+E:\Photo-Aplikacija\Photo.Service\obj\Debug\Photo.Service.dll
+E:\Photo-Aplikacija\Photo.Service\obj\Debug\Photo.Service.pdb
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Service.dll
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Service.pdb
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Ninject.dll
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Models.Common.dll
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Models.dll
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Repository.Common.dll
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Repository.dll
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Service.Common.dll
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.DAL.dll
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\EntityFramework.dll
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\AutoMapper.dll
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Models.Common.pdb
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Models.pdb
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Repository.Common.pdb
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Repository.pdb
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Repository.dll.config
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.Service.Common.pdb
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Ninject.xml
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.DAL.pdb
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\Photo.DAL.dll.config
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\EntityFramework.xml
+D:\Photo-Aplikacija\Photo.Service\bin\Debug\AutoMapper.xml
+D:\Photo-Aplikacija\Photo.Service\obj\Debug\Photo.Service.csprojResolveAssemblyReference.cache
+D:\Photo-Aplikacija\Photo.Service\obj\Debug\Photo.Service.dll
+D:\Photo-Aplikacija\Photo.Service\obj\Debug\Photo.Service.pdb

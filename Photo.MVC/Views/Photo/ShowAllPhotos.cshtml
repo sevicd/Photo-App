@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Photo.MVC.ViewModels.PhotoViewModel>
+
+@{
+    ViewBag.Title = "ShowAllPhotos";
+}
+
+<style>
+    #link a {
+        color: black;
+        font-size: large;
+    }
+</style>
+<h2>Photos</h2>
+<link href="~/Content/StyleSheet1.css" rel="stylesheet" />
+<p>
+    <div id="link">
+        @Html.ActionLink("Add New Photos", "Add")
+    </div>
+</p>
+
+
+@using (Html.BeginForm("ShowAllPhotos", "Photo", FormMethod.Post))
+{
+    int i = 0;
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                string name = item.ImgUrl;
+                i++;
+
+                <div class="col-md-4">
+
+                    <div class="thumbnail" style="margin-top:20px;">
+
+                        <img src="~/Images/@item.ImgUrl" alt="Lights" style="width:100%">
+                        <div class="caption">
+                        </div>
+                        <input type="checkbox" value="@item.ImgUrl" class="largerCheckbox" name="@name"  />
+                    </div>
+                </div>
+
+
+
+            }
+        </div>
+
+    </div>
+    <input type="submit" value="OK"/>
+
+}

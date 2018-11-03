@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3605BAFB-7A39-4AB0-A9DD-8D00806AED3E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Photo.Service</RootNamespace>
+    <AssemblyName>Photo.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ninject, Version=3.3.4.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.3.4\lib\net45\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CategoryService.cs" />
+    <Compile Include="PhotoService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Photo.Models.Common\Photo.Models.Common.csproj">
+      <Project>{3FB89B07-6E1C-4D1A-B2E6-D9A522B8AA14}</Project>
+      <Name>Photo.Models.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Photo.Models\Photo.Models.csproj">
+      <Project>{3d25a565-4f5d-4b2a-b575-598060ebd8c1}</Project>
+      <Name>Photo.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Photo.Repository.Common\Photo.Repository.Common.csproj">
+      <Project>{3f0aeee0-90ad-4411-862f-40ebcfc1fe68}</Project>
+      <Name>Photo.Repository.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Photo.Repository\Photo.Repository.csproj">
+      <Project>{7b70fb2e-e6bc-4190-8f0d-0577fb73e2a7}</Project>
+      <Name>Photo.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Photo.Service.Common\Photo.Service.Common.csproj">
+      <Project>{49e504b7-c097-4835-b1da-d02b954224e1}</Project>
+      <Name>Photo.Service.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

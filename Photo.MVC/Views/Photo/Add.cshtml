@@ -1,0 +1,24 @@
+﻿@model Photo.MVC.ViewModels.FullPhotoViewModel
+
+@{
+    ViewBag.Title = "Add";
+}
+
+<h2>Add</h2>
+
+@using (Html.BeginForm("Add2", "Photo", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <h3>Tags:</h3>
+    @Html.TextBoxFor(c => c.Tags)
+    <h3>Description:</h3>
+    @Html.TextBoxFor(c => c.Description)
+    <h3>Category:</h3>
+    @Html.ListBoxFor(c => c.SelectedID, Model.Items, new { @class = "listbox" })
+    <h3>Select image:</h3>
+    <input type="file" name="main" />
+    <input type="submit" class="button" value="ADD" />
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

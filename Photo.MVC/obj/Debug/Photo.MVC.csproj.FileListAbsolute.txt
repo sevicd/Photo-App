@@ -1,0 +1,485 @@
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\obj\Debug\Photo.MVC.csprojResolveAssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\ApplicationInsights.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\csc.exe
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\csc.exe.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\csc.rsp
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\csi.exe
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\csi.rsp
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\vbc.exe
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\vbc.exe.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\vbc.rsp
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.MVC.dll.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.MVC.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.MVC.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Antlr3.Runtime.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\AutoMapper.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\EntityFramework.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Newtonsoft.Json.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Ninject.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Ninject.Web.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Owin.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.DAL.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Repository.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Repository.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Service.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Service.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.Helpers.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.Mvc.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.Optimization.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.Razor.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.WebPages.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\WebActivatorEx.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\WebGrease.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Models.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.DAL.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.DAL.dll.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Repository.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Repository.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Repository.dll.config
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Service.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Service.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\AutoMapper.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Ninject.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Ninject.Web.Common.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.Helpers.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.Mvc.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.Optimization.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.Razor.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.WebPages.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Newtonsoft.Json.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\EntityFramework.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Models.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\obj\Debug\Photo.MVC.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\obj\Debug\Photo.MVC.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Models.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.MVC\bin\Photo.Models.pdb
+D:\Photo\Photo.MVC\bin\ApplicationInsights.config
+D:\Photo\Photo.MVC\bin\roslyn\csc.exe
+D:\Photo\Photo.MVC\bin\roslyn\csc.exe.config
+D:\Photo\Photo.MVC\bin\roslyn\csc.rsp
+D:\Photo\Photo.MVC\bin\roslyn\csi.exe
+D:\Photo\Photo.MVC\bin\roslyn\csi.rsp
+D:\Photo\Photo.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Photo\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Photo\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Photo\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Photo\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Photo\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Photo\Photo.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Photo\Photo.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Photo\Photo.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Photo\Photo.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Photo\Photo.MVC\bin\roslyn\System.AppContext.dll
+D:\Photo\Photo.MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Photo\Photo.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Photo\Photo.MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Photo\Photo.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Photo\Photo.MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Photo\Photo.MVC\bin\roslyn\vbc.exe
+D:\Photo\Photo.MVC\bin\roslyn\vbc.exe.config
+D:\Photo\Photo.MVC\bin\roslyn\vbc.rsp
+D:\Photo\Photo.MVC\bin\roslyn\VBCSCompiler.exe
+D:\Photo\Photo.MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Photo\Photo.MVC\bin\Photo.MVC.dll.config
+D:\Photo\Photo.MVC\bin\Photo.MVC.dll
+D:\Photo\Photo.MVC\bin\Photo.MVC.pdb
+D:\Photo\Photo.MVC\bin\Antlr3.Runtime.dll
+D:\Photo\Photo.MVC\bin\AutoMapper.dll
+D:\Photo\Photo.MVC\bin\EntityFramework.dll
+D:\Photo\Photo.MVC\bin\EntityFramework.SqlServer.dll
+D:\Photo\Photo.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Photo\Photo.MVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\Photo\Photo.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Photo\Photo.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Photo\Photo.MVC\bin\Microsoft.AI.Web.dll
+D:\Photo\Photo.MVC\bin\Microsoft.AI.WindowsServer.dll
+D:\Photo\Photo.MVC\bin\Microsoft.ApplicationInsights.dll
+D:\Photo\Photo.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Photo\Photo.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Photo\Photo.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Photo\Photo.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.dll
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.dll
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Google.dll
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Photo\Photo.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Photo\Photo.MVC\bin\Newtonsoft.Json.dll
+D:\Photo\Photo.MVC\bin\Ninject.dll
+D:\Photo\Photo.MVC\bin\Ninject.Web.Common.dll
+D:\Photo\Photo.MVC\bin\Ninject.Web.Mvc.dll
+D:\Photo\Photo.MVC\bin\Owin.dll
+D:\Photo\Photo.MVC\bin\Photo.DAL.dll
+D:\Photo\Photo.MVC\bin\Photo.Models.Common.dll
+D:\Photo\Photo.MVC\bin\Photo.Models.dll
+D:\Photo\Photo.MVC\bin\Photo.Repository.Common.dll
+D:\Photo\Photo.MVC\bin\Photo.Repository.dll
+D:\Photo\Photo.MVC\bin\Photo.Service.Common.dll
+D:\Photo\Photo.MVC\bin\Photo.Service.dll
+D:\Photo\Photo.MVC\bin\System.Web.Helpers.dll
+D:\Photo\Photo.MVC\bin\System.Web.Mvc.dll
+D:\Photo\Photo.MVC\bin\System.Web.Optimization.dll
+D:\Photo\Photo.MVC\bin\System.Web.Razor.dll
+D:\Photo\Photo.MVC\bin\System.Web.WebPages.Deployment.dll
+D:\Photo\Photo.MVC\bin\System.Web.WebPages.dll
+D:\Photo\Photo.MVC\bin\System.Web.WebPages.Razor.dll
+D:\Photo\Photo.MVC\bin\WebActivatorEx.dll
+D:\Photo\Photo.MVC\bin\WebGrease.dll
+D:\Photo\Photo.MVC\bin\Photo.DAL.pdb
+D:\Photo\Photo.MVC\bin\Photo.DAL.dll.config
+D:\Photo\Photo.MVC\bin\Photo.Models.Common.pdb
+D:\Photo\Photo.MVC\bin\Photo.Models.pdb
+D:\Photo\Photo.MVC\bin\Photo.Repository.Common.pdb
+D:\Photo\Photo.MVC\bin\Photo.Repository.pdb
+D:\Photo\Photo.MVC\bin\Photo.Repository.dll.config
+D:\Photo\Photo.MVC\bin\Photo.Service.Common.pdb
+D:\Photo\Photo.MVC\bin\Photo.Service.pdb
+D:\Photo\Photo.MVC\bin\AutoMapper.xml
+D:\Photo\Photo.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Photo\Photo.MVC\bin\Ninject.xml
+D:\Photo\Photo.MVC\bin\Ninject.Web.Common.xml
+D:\Photo\Photo.MVC\bin\Ninject.Web.Mvc.xml
+D:\Photo\Photo.MVC\bin\System.Web.Helpers.xml
+D:\Photo\Photo.MVC\bin\System.Web.Mvc.xml
+D:\Photo\Photo.MVC\bin\System.Web.Optimization.xml
+D:\Photo\Photo.MVC\bin\System.Web.Razor.xml
+D:\Photo\Photo.MVC\bin\System.Web.WebPages.xml
+D:\Photo\Photo.MVC\bin\System.Web.WebPages.Deployment.xml
+D:\Photo\Photo.MVC\bin\System.Web.WebPages.Razor.xml
+D:\Photo\Photo.MVC\bin\Antlr3.Runtime.pdb
+D:\Photo\Photo.MVC\bin\Newtonsoft.Json.xml
+D:\Photo\Photo.MVC\bin\EntityFramework.xml
+D:\Photo\Photo.MVC\bin\EntityFramework.SqlServer.xml
+D:\Photo\Photo.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Photo\Photo.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Photo\Photo.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.xml
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.xml
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Google.xml
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Photo\Photo.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Photo\Photo.MVC\bin\Microsoft.ApplicationInsights.xml
+D:\Photo\Photo.MVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\Photo\Photo.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Photo\Photo.MVC\bin\Microsoft.AI.WindowsServer.xml
+D:\Photo\Photo.MVC\bin\Microsoft.AI.Web.xml
+D:\Photo\Photo.MVC\obj\Debug\Photo.MVC.csprojResolveAssemblyReference.cache
+D:\Photo\Photo.MVC\obj\Debug\Photo.MVC.dll
+D:\Photo\Photo.MVC\obj\Debug\Photo.MVC.pdb
+E:\Photo-Aplikacija\Photo.MVC\bin\ApplicationInsights.config
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\csc.exe
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\csc.exe.config
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\csc.rsp
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\csi.exe
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\csi.rsp
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\System.AppContext.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\System.Collections.Immutable.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\System.IO.FileSystem.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\vbc.exe
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\vbc.exe.config
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\vbc.rsp
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\VBCSCompiler.exe
+E:\Photo-Aplikacija\Photo.MVC\bin\roslyn\VBCSCompiler.exe.config
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.MVC.dll.config
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.MVC.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.MVC.pdb
+E:\Photo-Aplikacija\Photo.MVC\bin\Antlr3.Runtime.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\AutoMapper.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\EntityFramework.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\EntityFramework.SqlServer.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.DependencyCollector.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.Web.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.WindowsServer.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.ApplicationInsights.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Google.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Newtonsoft.Json.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Ninject.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Ninject.Web.Common.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Ninject.Web.Mvc.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Owin.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.DAL.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Models.Common.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Models.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Repository.Common.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Repository.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Service.Common.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Service.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Helpers.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Mvc.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Optimization.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Razor.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.WebPages.Deployment.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.WebPages.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.WebPages.Razor.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\WebActivatorEx.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\WebGrease.dll
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.DAL.pdb
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.DAL.dll.config
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Models.Common.pdb
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Models.pdb
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Repository.Common.pdb
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Repository.pdb
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Repository.dll.config
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Service.Common.pdb
+E:\Photo-Aplikacija\Photo.MVC\bin\Photo.Service.pdb
+E:\Photo-Aplikacija\Photo.MVC\bin\AutoMapper.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Ninject.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Ninject.Web.Common.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Ninject.Web.Mvc.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Helpers.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Mvc.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Optimization.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Razor.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.WebPages.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.WebPages.Deployment.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\System.Web.WebPages.Razor.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Antlr3.Runtime.pdb
+E:\Photo-Aplikacija\Photo.MVC\bin\Newtonsoft.Json.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\EntityFramework.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\EntityFramework.SqlServer.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Google.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.ApplicationInsights.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.DependencyCollector.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.WindowsServer.xml
+E:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.Web.xml
+E:\Photo-Aplikacija\Photo.MVC\obj\Debug\Photo.MVC.csprojResolveAssemblyReference.cache
+E:\Photo-Aplikacija\Photo.MVC\obj\Debug\Photo.MVC.csproj.CoreCompileInputs.cache
+E:\Photo-Aplikacija\Photo.MVC\obj\Debug\Photo.MVC.dll
+E:\Photo-Aplikacija\Photo.MVC\obj\Debug\Photo.MVC.pdb
+D:\Photo-Aplikacija\Photo.MVC\bin\ApplicationInsights.config
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\csc.exe
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\csc.exe.config
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\csc.rsp
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\csi.exe
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\csi.rsp
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\System.AppContext.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\vbc.exe
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\vbc.exe.config
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\vbc.rsp
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\VBCSCompiler.exe
+D:\Photo-Aplikacija\Photo.MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.MVC.dll.config
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.MVC.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.MVC.pdb
+D:\Photo-Aplikacija\Photo.MVC\bin\Antlr3.Runtime.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\AutoMapper.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\EntityFramework.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\EntityFramework.SqlServer.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.Web.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.WindowsServer.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.ApplicationInsights.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Google.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Newtonsoft.Json.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Ninject.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Ninject.Web.Common.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Ninject.Web.Mvc.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Owin.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.DAL.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Models.Common.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Models.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Repository.Common.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Repository.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Service.Common.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Service.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Helpers.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Mvc.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Optimization.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Razor.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.WebPages.Deployment.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.WebPages.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.WebPages.Razor.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\WebActivatorEx.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\WebGrease.dll
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.DAL.pdb
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.DAL.dll.config
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Models.Common.pdb
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Models.pdb
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Repository.Common.pdb
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Repository.pdb
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Repository.dll.config
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Service.Common.pdb
+D:\Photo-Aplikacija\Photo.MVC\bin\Photo.Service.pdb
+D:\Photo-Aplikacija\Photo.MVC\bin\AutoMapper.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Ninject.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Ninject.Web.Common.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Ninject.Web.Mvc.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Helpers.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Mvc.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Optimization.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.Razor.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.WebPages.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.WebPages.Deployment.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\System.Web.WebPages.Razor.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Antlr3.Runtime.pdb
+D:\Photo-Aplikacija\Photo.MVC\bin\Newtonsoft.Json.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\EntityFramework.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\EntityFramework.SqlServer.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Google.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.ApplicationInsights.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.WindowsServer.xml
+D:\Photo-Aplikacija\Photo.MVC\bin\Microsoft.AI.Web.xml
+D:\Photo-Aplikacija\Photo.MVC\obj\Debug\Photo.MVC.csprojResolveAssemblyReference.cache
+D:\Photo-Aplikacija\Photo.MVC\obj\Debug\Photo.MVC.dll
+D:\Photo-Aplikacija\Photo.MVC\obj\Debug\Photo.MVC.pdb

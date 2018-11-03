@@ -1,0 +1,29 @@
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Models.Common\bin\Debug\Photo.Models.Common.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Models.Common\bin\Debug\Photo.Models.Common.pdb
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Models.Common\obj\Debug\Photo.Models.Common.csprojResolveAssemblyReference.cache
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Models.Common\obj\Debug\Photo.Models.Common.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Models.Common\obj\Debug\Photo.Models.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Models.Common\bin\Debug\Ninject.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Models.Common\bin\Debug\Ninject.xml
+D:\Photo\Photo.Models.Common\bin\Debug\Photo.Models.Common.dll
+D:\Photo\Photo.Models.Common\bin\Debug\Photo.Models.Common.pdb
+D:\Photo\Photo.Models.Common\bin\Debug\Ninject.dll
+D:\Photo\Photo.Models.Common\bin\Debug\Ninject.xml
+D:\Photo\Photo.Models.Common\obj\Debug\Photo.Models.Common.csprojResolveAssemblyReference.cache
+D:\Photo\Photo.Models.Common\obj\Debug\Photo.Models.Common.dll
+D:\Photo\Photo.Models.Common\obj\Debug\Photo.Models.Common.pdb
+E:\Photo-Aplikacija\Photo.Models.Common\bin\Debug\Photo.Models.Common.dll
+E:\Photo-Aplikacija\Photo.Models.Common\bin\Debug\Photo.Models.Common.pdb
+E:\Photo-Aplikacija\Photo.Models.Common\bin\Debug\Ninject.dll
+E:\Photo-Aplikacija\Photo.Models.Common\bin\Debug\Ninject.xml
+E:\Photo-Aplikacija\Photo.Models.Common\obj\Debug\Photo.Models.Common.csprojResolveAssemblyReference.cache
+E:\Photo-Aplikacija\Photo.Models.Common\obj\Debug\Photo.Models.Common.csproj.CoreCompileInputs.cache
+E:\Photo-Aplikacija\Photo.Models.Common\obj\Debug\Photo.Models.Common.dll
+E:\Photo-Aplikacija\Photo.Models.Common\obj\Debug\Photo.Models.Common.pdb
+D:\Photo-Aplikacija\Photo.Models.Common\bin\Debug\Photo.Models.Common.dll
+D:\Photo-Aplikacija\Photo.Models.Common\bin\Debug\Photo.Models.Common.pdb
+D:\Photo-Aplikacija\Photo.Models.Common\bin\Debug\Ninject.dll
+D:\Photo-Aplikacija\Photo.Models.Common\bin\Debug\Ninject.xml
+D:\Photo-Aplikacija\Photo.Models.Common\obj\Debug\Photo.Models.Common.csprojResolveAssemblyReference.cache
+D:\Photo-Aplikacija\Photo.Models.Common\obj\Debug\Photo.Models.Common.dll
+D:\Photo-Aplikacija\Photo.Models.Common\obj\Debug\Photo.Models.Common.pdb

@@ -1,0 +1,85 @@
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\Photo.Repository.dll.config
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\Photo.Repository.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\Photo.Repository.pdb
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\AutoMapper.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\EntityFramework.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\Photo.DAL.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\Photo.Repository.Common.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\Photo.Models.Common.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\Photo.DAL.pdb
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\Photo.DAL.dll.config
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\Photo.Repository.Common.pdb
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\AutoMapper.xml
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\EntityFramework.xml
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\bin\Debug\Photo.Models.Common.pdb
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\obj\Debug\Photo.Repository.csprojResolveAssemblyReference.cache
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\obj\Debug\Photo.Repository.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.Repository\obj\Debug\Photo.Repository.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Repository\bin\Debug\Ninject.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Repository\bin\Debug\Ninject.xml
+D:\Photo\Photo.Repository\bin\Debug\Photo.Repository.dll.config
+D:\Photo\Photo.Repository\bin\Debug\Photo.Repository.dll
+D:\Photo\Photo.Repository\bin\Debug\Photo.Repository.pdb
+D:\Photo\Photo.Repository\bin\Debug\AutoMapper.dll
+D:\Photo\Photo.Repository\bin\Debug\EntityFramework.dll
+D:\Photo\Photo.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Photo\Photo.Repository\bin\Debug\Ninject.dll
+D:\Photo\Photo.Repository\bin\Debug\Photo.DAL.dll
+D:\Photo\Photo.Repository\bin\Debug\Photo.Models.Common.dll
+D:\Photo\Photo.Repository\bin\Debug\Photo.Repository.Common.dll
+D:\Photo\Photo.Repository\bin\Debug\Photo.DAL.pdb
+D:\Photo\Photo.Repository\bin\Debug\Photo.DAL.dll.config
+D:\Photo\Photo.Repository\bin\Debug\Photo.Models.Common.pdb
+D:\Photo\Photo.Repository\bin\Debug\Photo.Repository.Common.pdb
+D:\Photo\Photo.Repository\bin\Debug\AutoMapper.xml
+D:\Photo\Photo.Repository\bin\Debug\EntityFramework.xml
+D:\Photo\Photo.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Photo\Photo.Repository\bin\Debug\Ninject.xml
+D:\Photo\Photo.Repository\obj\Debug\Photo.Repository.csprojResolveAssemblyReference.cache
+D:\Photo\Photo.Repository\obj\Debug\Photo.Repository.dll
+D:\Photo\Photo.Repository\obj\Debug\Photo.Repository.pdb
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Repository.dll.config
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Repository.dll
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Repository.pdb
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\AutoMapper.dll
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\EntityFramework.dll
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\Ninject.dll
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.DAL.dll
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Models.Common.dll
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Repository.Common.dll
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.DAL.pdb
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.DAL.dll.config
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Models.Common.pdb
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Repository.Common.pdb
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\AutoMapper.xml
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\EntityFramework.xml
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Photo-Aplikacija\Photo.Repository\bin\Debug\Ninject.xml
+E:\Photo-Aplikacija\Photo.Repository\obj\Debug\Photo.Repository.csprojResolveAssemblyReference.cache
+E:\Photo-Aplikacija\Photo.Repository\obj\Debug\Photo.Repository.csproj.CoreCompileInputs.cache
+E:\Photo-Aplikacija\Photo.Repository\obj\Debug\Photo.Repository.dll
+E:\Photo-Aplikacija\Photo.Repository\obj\Debug\Photo.Repository.pdb
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Repository.dll.config
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Repository.dll
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Repository.pdb
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\AutoMapper.dll
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\EntityFramework.dll
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\Ninject.dll
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.DAL.dll
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Models.Common.dll
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Repository.Common.dll
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.DAL.pdb
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.DAL.dll.config
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Models.Common.pdb
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\Photo.Repository.Common.pdb
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\AutoMapper.xml
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\EntityFramework.xml
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Photo-Aplikacija\Photo.Repository\bin\Debug\Ninject.xml
+D:\Photo-Aplikacija\Photo.Repository\obj\Debug\Photo.Repository.csprojResolveAssemblyReference.cache
+D:\Photo-Aplikacija\Photo.Repository\obj\Debug\Photo.Repository.dll
+D:\Photo-Aplikacija\Photo.Repository\obj\Debug\Photo.Repository.pdb

@@ -1,0 +1,49 @@
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.DAL\bin\Debug\Photo.DAL.dll.config
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.DAL\bin\Debug\Photo.DAL.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.DAL\bin\Debug\Photo.DAL.pdb
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.DAL\bin\Debug\EntityFramework.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.DAL\bin\Debug\EntityFramework.xml
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.DAL\obj\Debug\Photo.DAL.csprojResolveAssemblyReference.cache
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.DAL\obj\Debug\Photo.DAL.dll
+c:\users\ucenik\documents\visual studio 2017\Projects\Photo\Photo.DAL\obj\Debug\Photo.DAL.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.DAL\bin\Debug\Ninject.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.DAL\bin\Debug\Ninject.xml
+D:\Photo\Photo.DAL\bin\Debug\Photo.DAL.dll.config
+D:\Photo\Photo.DAL\bin\Debug\Photo.DAL.dll
+D:\Photo\Photo.DAL\bin\Debug\Photo.DAL.pdb
+D:\Photo\Photo.DAL\bin\Debug\EntityFramework.dll
+D:\Photo\Photo.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Photo\Photo.DAL\bin\Debug\Ninject.dll
+D:\Photo\Photo.DAL\bin\Debug\EntityFramework.xml
+D:\Photo\Photo.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Photo\Photo.DAL\bin\Debug\Ninject.xml
+D:\Photo\Photo.DAL\obj\Debug\Photo.DAL.csprojResolveAssemblyReference.cache
+D:\Photo\Photo.DAL\obj\Debug\Photo.DAL.dll
+D:\Photo\Photo.DAL\obj\Debug\Photo.DAL.pdb
+E:\Photo-Aplikacija\Photo.DAL\bin\Debug\Photo.DAL.dll.config
+E:\Photo-Aplikacija\Photo.DAL\bin\Debug\Photo.DAL.dll
+E:\Photo-Aplikacija\Photo.DAL\bin\Debug\Photo.DAL.pdb
+E:\Photo-Aplikacija\Photo.DAL\bin\Debug\EntityFramework.dll
+E:\Photo-Aplikacija\Photo.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Photo-Aplikacija\Photo.DAL\bin\Debug\Ninject.dll
+E:\Photo-Aplikacija\Photo.DAL\bin\Debug\EntityFramework.xml
+E:\Photo-Aplikacija\Photo.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Photo-Aplikacija\Photo.DAL\bin\Debug\Ninject.xml
+E:\Photo-Aplikacija\Photo.DAL\obj\Debug\Photo.DAL.csprojResolveAssemblyReference.cache
+E:\Photo-Aplikacija\Photo.DAL\obj\Debug\Photo.DAL.csproj.CoreCompileInputs.cache
+E:\Photo-Aplikacija\Photo.DAL\obj\Debug\Photo.DAL.dll
+E:\Photo-Aplikacija\Photo.DAL\obj\Debug\Photo.DAL.pdb
+D:\Photo-Aplikacija\Photo.DAL\bin\Debug\Photo.DAL.dll.config
+D:\Photo-Aplikacija\Photo.DAL\bin\Debug\Photo.DAL.dll
+D:\Photo-Aplikacija\Photo.DAL\bin\Debug\Photo.DAL.pdb
+D:\Photo-Aplikacija\Photo.DAL\bin\Debug\EntityFramework.dll
+D:\Photo-Aplikacija\Photo.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Photo-Aplikacija\Photo.DAL\bin\Debug\Ninject.dll
+D:\Photo-Aplikacija\Photo.DAL\bin\Debug\EntityFramework.xml
+D:\Photo-Aplikacija\Photo.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Photo-Aplikacija\Photo.DAL\bin\Debug\Ninject.xml
+D:\Photo-Aplikacija\Photo.DAL\obj\Debug\Photo.DAL.csprojResolveAssemblyReference.cache
+D:\Photo-Aplikacija\Photo.DAL\obj\Debug\Photo.DAL.dll
+D:\Photo-Aplikacija\Photo.DAL\obj\Debug\Photo.DAL.pdb

@@ -1,0 +1,37 @@
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service.Common\bin\Debug\Photo.Service.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service.Common\bin\Debug\Photo.Service.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service.Common\bin\Debug\Photo.Models.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service.Common\bin\Debug\Photo.Models.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service.Common\obj\Debug\Photo.Service.Common.csprojResolveAssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service.Common\obj\Debug\Photo.Service.Common.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service.Common\obj\Debug\Photo.Service.Common.pdb
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service.Common\bin\Debug\Ninject.dll
+C:\Users\ucenik\Documents\Visual Studio 2017\Projects\Photo\Photo.Service.Common\bin\Debug\Ninject.xml
+D:\Photo\Photo.Service.Common\bin\Debug\Photo.Service.Common.dll
+D:\Photo\Photo.Service.Common\bin\Debug\Photo.Service.Common.pdb
+D:\Photo\Photo.Service.Common\bin\Debug\Ninject.dll
+D:\Photo\Photo.Service.Common\bin\Debug\Photo.Models.Common.dll
+D:\Photo\Photo.Service.Common\bin\Debug\Photo.Models.Common.pdb
+D:\Photo\Photo.Service.Common\bin\Debug\Ninject.xml
+D:\Photo\Photo.Service.Common\obj\Debug\Photo.Service.Common.csprojResolveAssemblyReference.cache
+D:\Photo\Photo.Service.Common\obj\Debug\Photo.Service.Common.dll
+D:\Photo\Photo.Service.Common\obj\Debug\Photo.Service.Common.pdb
+E:\Photo-Aplikacija\Photo.Service.Common\bin\Debug\Photo.Service.Common.dll
+E:\Photo-Aplikacija\Photo.Service.Common\bin\Debug\Photo.Service.Common.pdb
+E:\Photo-Aplikacija\Photo.Service.Common\bin\Debug\Ninject.dll
+E:\Photo-Aplikacija\Photo.Service.Common\bin\Debug\Photo.Models.Common.dll
+E:\Photo-Aplikacija\Photo.Service.Common\bin\Debug\Photo.Models.Common.pdb
+E:\Photo-Aplikacija\Photo.Service.Common\bin\Debug\Ninject.xml
+E:\Photo-Aplikacija\Photo.Service.Common\obj\Debug\Photo.Service.Common.csprojResolveAssemblyReference.cache
+E:\Photo-Aplikacija\Photo.Service.Common\obj\Debug\Photo.Service.Common.csproj.CoreCompileInputs.cache
+E:\Photo-Aplikacija\Photo.Service.Common\obj\Debug\Photo.Service.Common.dll
+E:\Photo-Aplikacija\Photo.Service.Common\obj\Debug\Photo.Service.Common.pdb
+D:\Photo-Aplikacija\Photo.Service.Common\bin\Debug\Photo.Service.Common.dll
+D:\Photo-Aplikacija\Photo.Service.Common\bin\Debug\Photo.Service.Common.pdb
+D:\Photo-Aplikacija\Photo.Service.Common\bin\Debug\Ninject.dll
+D:\Photo-Aplikacija\Photo.Service.Common\bin\Debug\Photo.Models.Common.dll
+D:\Photo-Aplikacija\Photo.Service.Common\bin\Debug\Photo.Models.Common.pdb
+D:\Photo-Aplikacija\Photo.Service.Common\bin\Debug\Ninject.xml
+D:\Photo-Aplikacija\Photo.Service.Common\obj\Debug\Photo.Service.Common.csprojResolveAssemblyReference.cache
+D:\Photo-Aplikacija\Photo.Service.Common\obj\Debug\Photo.Service.Common.dll
+D:\Photo-Aplikacija\Photo.Service.Common\obj\Debug\Photo.Service.Common.pdb
